@@ -1,10 +1,8 @@
 # Flutter GitHub User Search
 
-
 ![ProjectExample](https://media1.giphy.com/media/dRxxDVKOTpwXkMXqq0/giphy.gif?cid=790b7611f26938f779105c1b3b999ac72a9aef74bcfd7352&rid=giphy.gif&ct=g)
 
 
-**Flutter GitHub User Search**
 
 This is a Flutter app that allows users to search for other GitHub users using the GitHub API. The app displays the searched user's username, profile picture, and follower count.
 
